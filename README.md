@@ -8,7 +8,7 @@ Based on [youtube-dl](https://github.com/ytdl-org/youtube-dl) and inspired by [y
 
 ### YT-DL (Max Quality - MP4)
 
-1. Run "YT-DL (Max Quality - MP4).bat"
+1. Run `YT-DL (Max Quality - MP4).bat`
 2. Insert video URL
 
 Done. The video will be downloaded and when finished, it will be converted to ".mp4" and will be saved in the "Downloads" folder.
@@ -17,11 +17,11 @@ Done. The video will be downloaded and when finished, it will be converted to ".
 
 ### YT-DL (Advanced)
 
-1. Run "YT-DL (Advanced).bat"
+1. Run `YT-DL (Advanced).bat`
 2. Insert video URL
-3. Choose an option (1 = Video + Audio | 2 = Single format (Audio only / Video only))
-4. If you select 1, choose a video format and an audio format according to the "format" column that was displayed.
-5. If you select 2, choose the video or audio format you want to download according to the "format" column that appears.
+3. Choose an option (1 = Video + Audio | 2 = Single format (Audio only / Video only))  
+4. If you select 1, choose a video format and an audio format according to the "format" column that was displayed.  
+4.1 If you select 2, choose the video or audio format you want to download according to the "format" column that appears.  
 
 Done. When finished, the files will be saved in the "Downloads" folder.
 
